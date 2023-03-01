@@ -20,6 +20,6 @@
 2. Валерий Шунков - https://habr.com/ru/users/amartology/
 
 ## Ещё полезные ссылки:
-1. [Плата FPGA - Марсоход]([https://marsohod.org/howtostart/plata](https://marsohod.org/howtostart/plata))
-2. [Подкаст "Подлодка" - Cхемотехника]([https://music.yandex.com/album/7570122/track/84218913?utm_medium=copy_link](https://music.yandex.com/album/7570122/track/84218913?utm_medium=copy_link))
-3. [edaplayground]([https://www.edaplayground.com/](https://www.edaplayground.com/))
+1. [Плата FPGA - Марсоход](https://marsohod.org/howtostart/plata)
+2. [Подкаст "Подлодка" - Cхемотехника](https://music.yandex.com/album/7570122/track/84218913?utm_medium=copy_link)
+3. [edaplayground](https://www.edaplayground.com/)
