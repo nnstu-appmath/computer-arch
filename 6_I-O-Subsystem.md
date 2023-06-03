@@ -74,7 +74,10 @@ PIC32 имеет пять 16-разрядных таймеров на плате
     -работы с сетью
    - работы с картами расширений и с внешними устройствами. Эти протоколы развивались с целью обеспечения высокой производительности передачи данных и возможности для пользователей без труда подключать внешние устройства. 
    
-   https://github.com/nnstu-appmath/computer-arch/blob/master/pictures/c456e58c_5.png
+   <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
+ <source media="(prefers-color-scheme: light)" srcset="https://www.gigabyte.ru/products/upload/products/2165/c456e58c_5.png">
+</picture>
 
 Рис.12 Материнская плата Gigabyte GA-H55M-S2V
                          
