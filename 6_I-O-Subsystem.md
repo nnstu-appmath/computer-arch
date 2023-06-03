@@ -76,7 +76,7 @@ PIC32 имеет пять 16-разрядных таймеров на плате
  <picture>
  <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
  <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src=https://media.au.ru/imgs/ba0379c398579729d1d631ae3e4462c2/g">
+ <img alt="YOUR-ALT-TEXT" src="https://www.technocity.ru/upload/resize_cache/iblock/dd1/400_400_1/z0000015438.jpg">
 </picture>
  
 
